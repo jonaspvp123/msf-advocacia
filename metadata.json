@@ -1,0 +1,6 @@
+{
+  "name": "MSF | Araújo Advogados Associados",
+  "description": "Website institucional premium do escritório de advocacia MSF | Araújo Advogados Associados. Excelência, confiança e alta performance jurídica em todo o Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
